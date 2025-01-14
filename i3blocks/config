@@ -1,0 +1,26 @@
+# Exemplo de configuração do i3blocks
+
+[time]
+command=date '+%Y-%m-%d %H:%M'
+interval=1
+label=
+
+[cpu]
+command=grep -o '^[^ ]*' /proc/loadavg
+interval=10
+label=
+
+[memory]
+command=free -h | awk '/^Mem/ { print $3"/"$2 }'
+interval=30
+label=
+
+[volume]
+command=amixer get Master | grep -o "[0-9]*%" | head -n 1
+interval=1
+label=
+
+[battery]
+command=acpi -b | awk -F', ' '{print $1 " " $2}'
+interval=10
+label=⚡
