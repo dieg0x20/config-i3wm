@@ -2,4 +2,4 @@
 
 . Screenshot Arch linux
 <p><p/>
-<img src="2025-01-16_20-13.png"/>
+<img src="2025-01-23_20-30.png"/>
