@@ -2,4 +2,8 @@
 
 . Screenshot Arch linux
 <p><p/>
-<img src="2025-01-23_20-30.png"/>
+##Tela inicial 
+<img src="homeSetup.png"/>
+
+##Terminal Arch Linux
+<img src="terminalSetup.png"/>
