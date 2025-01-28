@@ -2,8 +2,9 @@
 
 . Screenshot Arch linux
 <p><p/>
-##Tela inicial 
+  
+## Tela inicial 
 <img src="homeSetup.png"/>
 
-##Terminal Arch Linux
+## Terminal Arch Linux
 <img src="terminalSetup.png"/>
